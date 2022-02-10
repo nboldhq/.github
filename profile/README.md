@@ -1,4 +1,4 @@
-<img src="https://nbold.co/wp-content/uploads/2020/12/Logo_degrade_blanc.svg" width="300">
+<a href="https://nbold.co"><img src="https://nbold.co/wp-content/uploads/2020/12/Logo_degrade_blanc.svg" width="300"></a>
 
 At nBold, like most tech companies, we depend on open source software from all over the world to help us get things done.
 
